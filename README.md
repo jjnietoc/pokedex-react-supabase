@@ -2,7 +2,7 @@
 ## This was made using React, Typescript, Supabase and deployed in Netlify
 
 You can check the deployment in 
-### `https://63d338fa31d9b12b571f4ade--meek-torrone-e63ac9.netlify.app/`
+### https://63d338fa31d9b12b571f4ade--meek-torrone-e63ac9.netlify.app/
 
 #### You can:
 1. Log in using GitHub
